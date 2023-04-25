@@ -29,3 +29,10 @@ Antes de começar a olhar meu projeto, é interessante ver o Diagrama de Fluxo o
 <p align="center">
   <img src="https://github.com/joaopaulof19/TCC/blob/3ccab44a854da17c1f1aefeffb2279c2edd7a7e5/img/diagrama_fluxo.png" alt="Diagrama de Fluxo TCC">
 </p>
+
+
+<p> Caso você tenha interesse em ler minha monografia, ela está disponível em:
+<a href="https://github.com/joaopaulof19/TCC/blob/902b14cec5c6687e6d98a265ca7a58d56672b84f/Documents/TCC-Resid%C3%AAncia%20TI%20-%20Jo%C3%A3o%20Paulo%20de%20Oliveira%20C%C3%A2mara%20Fernandes.pdf">MONOGRAFIA</a></p>
+
+<p> Caso você tenha interesse em assistir a minha defesa de trabalho de conclusão de curso, ela está disponível em:
+<a href="https://www.youtube.com/watch?v=qxr2NkMahcw">Defesa TCC</a></p>
