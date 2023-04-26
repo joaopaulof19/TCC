@@ -20,7 +20,7 @@
 &emsp; Processos classificados como "Normal", é direcionado à secretaria da vara correspondente, e tem seu trâmite normal. Já os que são classificados como "Prioridade", ele passa direto para assessoria, pulando etapas em relação ao processo normal. A última classificação é a "Urgência", onde o processo também passa direto para assessoria, porém, com a necessidade de haver ato jurisdicional antes de acontecer a sentença.
 
 <p align="center">
-  <img src="https://github.com/joaopaulof19/TCC/blob/3ccab44a854da17c1f1aefeffb2279c2edd7a7e5/img/projeto_tcc_ilustracao.PNG" alt="ilustração Projeto TCC" width="50%">
+  <img src="https://github.com/joaopaulof19/TCC/blob/3ccab44a854da17c1f1aefeffb2279c2edd7a7e5/img/projeto_tcc_ilustracao.PNG" alt="ilustração Projeto TCC" width="60%">
 </p>
 
 <p>
@@ -28,7 +28,7 @@ Antes de começar a olhar meu projeto, é interessante ver o Diagrama de Fluxo o
 </p>
 
 <p align="center">
-  <img src="https://github.com/joaopaulof19/TCC/blob/3ccab44a854da17c1f1aefeffb2279c2edd7a7e5/img/diagrama_fluxo.png" alt="Diagrama de Fluxo TCC" width="70%">
+  <img src="https://github.com/joaopaulof19/TCC/blob/3ccab44a854da17c1f1aefeffb2279c2edd7a7e5/img/diagrama_fluxo.png" alt="Diagrama de Fluxo TCC" width="80%">
 </p>
 
 
